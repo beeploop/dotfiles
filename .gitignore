@@ -1,0 +1,4 @@
+.vscode
+.idea
+
+tmux/.config/tmux/plugins
