@@ -113,6 +113,8 @@ do
 			},
 		},
 
+		templ = {},
+
 		dartls = {
 			settings = {
 				dart = {
