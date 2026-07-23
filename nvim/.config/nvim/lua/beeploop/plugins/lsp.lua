@@ -113,6 +113,8 @@ do
 			},
 		},
 
+		html = {},
+
 		templ = {},
 
 		dartls = {

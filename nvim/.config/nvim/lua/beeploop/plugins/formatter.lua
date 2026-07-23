@@ -15,6 +15,9 @@ do
 				go = true,
 				javascript = true,
 				typescript = true,
+				dart = true,
+				html = true,
+				templ = true,
 			}
 			if enabled_filetypes[vim.bo[bufnr].filetype] then
 				return { timeout_ms = 500 }
