@@ -1,0 +1,10 @@
+# set default window size
+window-width = 120
+window-height = 40
+
+# opacity
+background-opacity = 0.98
+
+term = xterm-256color
+
+theme = GitHub Dark
